@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorAppCrudSln_5.props" />
+</Project>
