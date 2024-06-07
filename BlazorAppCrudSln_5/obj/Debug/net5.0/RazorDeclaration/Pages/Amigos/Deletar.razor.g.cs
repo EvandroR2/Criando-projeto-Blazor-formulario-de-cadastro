@@ -6,84 +6,87 @@
 
 namespace BlazorAppCrudSln_5.Pages.Amigos
 {
-    #line hidden
+    #line default
     using global::System;
     using global::System.Collections.Generic;
     using global::System.Linq;
     using global::System.Threading.Tasks;
     using global::Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using System.Net.Http;
+#line 1 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using System.Net.Http
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
-#line 2 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using Microsoft.AspNetCore.Authorization;
+#line 2 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using Microsoft.AspNetCore.Authorization
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
-#line 3 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using Microsoft.AspNetCore.Components.Authorization;
+#line 3 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using Microsoft.AspNetCore.Components.Authorization
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
-#line 4 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using Microsoft.AspNetCore.Components.Forms;
+#line 4 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using Microsoft.AspNetCore.Components.Forms
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
-#line 5 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using Microsoft.AspNetCore.Components.Routing;
+#line 5 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using Microsoft.AspNetCore.Components.Routing
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
-#line 6 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using Microsoft.AspNetCore.Components.Web;
+#line 6 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using Microsoft.AspNetCore.Components.Web
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
-#line 7 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using Microsoft.AspNetCore.Components.Web.Virtualization;
+#line 7 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using Microsoft.AspNetCore.Components.Web.Virtualization
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
-#line 8 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using Microsoft.JSInterop;
+#line 8 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using Microsoft.JSInterop
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
-#line 9 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using BlazorAppCrudSln_5;
+#line 9 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using BlazorAppCrudSln_5
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
-#line 10 "H:\Blazor\BlazorAppCrudSln_5\BlazorAppCrudSln_5\_Imports.razor"
-using BlazorAppCrudSln_5.Shared;
+#line 10 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\_Imports.razor"
+using BlazorAppCrudSln_5.Shared
 
 #line default
 #line hidden
 #nullable disable
-    [global::Microsoft.AspNetCore.Components.RouteAttribute("/Deletar")]
+    ;
+    [global::Microsoft.AspNetCore.Components.RouteAttribute(
+    // language=Route,Component
+#nullable restore
+#line 1 "C:\Users\Srb-Evandro-Dev\Documents\GitHub\Criando-projeto-Blazor-formulario-de-cadastro\BlazorAppCrudSln_5\Pages\Amigos\Deletar.razor"
+      "/Deletar"
+
+#line default
+#line hidden
+#nullable disable
+    )]
+    #nullable restore
     public partial class Deletar : global::Microsoft.AspNetCore.Components.ComponentBase
+    #nullable disable
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(global::Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
