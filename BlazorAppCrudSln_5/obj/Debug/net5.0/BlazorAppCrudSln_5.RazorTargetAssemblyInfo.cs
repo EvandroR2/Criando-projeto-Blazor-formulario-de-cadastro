@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorAppCrudSln_5")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3f35109da1e06cf4c7596a6a85a90c58b126af7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec3ac77272b72e870caf45c2803464140c339e99")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorAppCrudSln_5.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
